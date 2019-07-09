@@ -1,1 +1,4 @@
-#this is an empty project
+# This project implement Calculator program
+
+language used: C
+
